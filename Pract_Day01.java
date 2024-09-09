@@ -29,7 +29,7 @@ public class Pract_Day01 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {2,2,2,2,2};
+        int[] arr = {0, 1, 2, 1, 0, 2, 1, 0};
         System.out.println("Original array is : ");
         printArray(arr);
 
