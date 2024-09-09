@@ -29,13 +29,13 @@ public class Pract_Day01 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {0, 1, 2, 1, 0, 2, 1, 0};
-        System.out.println("Original array: ");
+        int[] arr = {2,2,2,2,2};
+        System.out.println("Original array is : ");
         printArray(arr);
 
         sort(arr);
 
-        System.out.println("Sorted array: ");
+        System.out.println("Sorted array is: ");
         printArray(arr);
     }
 
